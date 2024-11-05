@@ -18,6 +18,9 @@ body {
     font-size: 144%;
     text-align: right;
     padding: 10px;
+    padding-left: 0;
+    box-sizing: border-box;
+    width: 100%;
 }
 
 .buttons {
